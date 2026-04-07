@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Halil!+%F0%9F%91%8B;Merhaba%2C+Ben+Halil!+%F0%9F%91%8B;Vibe+Coder+%7C+AI+Enthusiast;Where+Wittgenstein+meets+TypeScript.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Halil!+%F0%9F%91%8B;Merhaba%2C+Ben+Halil!+%F0%9F%91%8B;Vibe+Coder+%7C+AI+Enthusiast;Where+Wittgenstein+meets+TypeScript.)](https://git.io/typing-svg)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Halilogia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-emre-k-32a590211/?locale=tr_TR)
@@ -53,12 +53,11 @@
 > >> > >>
 > >> > >> <div align="center">
 
-<a href="https://github.com/halilogia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=halilogia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilogia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halilogia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=halilogia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halilogia&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=halilogia&theme=tokyonight&hide_border=true)
 
 </div>
 
